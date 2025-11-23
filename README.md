@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Lokesh 👋
+### Data Science Intern | AI Enthusiast | ML Engineer
 
-<!--
-**lokiiicoded/lokiiicoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building AI projects, contributing to open-source, and learning new technologies.  
+Here’s a quick overview about me:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python, NumPy, Pandas
+- Machine Learning
+- Deep Learning
+- OpenCV
+- Git & GitHub
+- LangChain
+
+---
+
+## 📌 Projects
+- Hand Gesture Based Virtual Keyboard  
+- Fake News Detection NLP  
+- Git & GitHub Learning Repository  
+- AI Foundations Projects
+
+---
+
+## 🌱 Currently Learning
+- MLOps  
+- LLMs  
+- Vector Databases (Pinecone, Milvus)
+
+---
+
+## 🧩 Fun Fact  
+I automate EVERYTHING I can 😄
+
+---
+
+## 📫 Connect with me
+- LinkedIn: *add your link here*
+- Email: *add your contact email*
