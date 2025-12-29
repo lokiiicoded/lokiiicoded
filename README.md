@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Lokesh
 
-**Data Science Intern | AI Enthusiast | ML Engineer**
+**Data Scientist | ML Engineer | AI Enthusiast**
 
-*Building intelligent systems with LLMs, Knowledge Graphs & Automation*
+*Designing end‑to‑end AI systems with LLMs, knowledge graphs, vector search, and intelligent automation.*
 
 
 </div>
