@@ -1,5 +1,13 @@
-👋 Hi, I'm Lokesh  
+<div align="center">
+
+# 👋 Hi, I'm Lokesh
+
 **Data Science Intern | AI Enthusiast | ML Engineer**
+
+*Building intelligent systems with LLMs, Knowledge Graphs & Automation*
+
+
+</div>
 
 ---
 
