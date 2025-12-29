@@ -1,97 +1,42 @@
-<div align="center">
-
-# 👋 Hi, I'm Lokesh
-
+👋 Hi, I'm Lokesh  
 **Data Science Intern | AI Enthusiast | ML Engineer**
 
-*Building intelligent systems with LLMs, Knowledge Graphs & Automation*
+---
+
+## 🧠 LLMs & RAG Systems
+
+- Designing **Retrieval-Augmented Generation (RAG)** pipelines that blend vector search with LLMs to deliver precise, context-aware answers for real-world use cases.  
+- Building **production-ready LLM agents** using frameworks like LangChain and local/cloud-hosted models, with a strong focus on reliability, observability, and prompt-engineering best practices.  
+- Experimenting with embedding models, chunking strategies, and retrieval configurations to optimize latency, cost, and relevance for enterprise knowledge bases.
 
 ---
 
-### 🔧 Tech Arsenal
+## 🕸️ Knowledge Graphs & GraphRAG
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
+- Constructing **knowledge graphs** (including domain-focused graphs such as chemistry and materials) using Neo4j with clearly defined entities, relationships, and semantic structure.  
+- Implementing **GraphRAG** by combining graph queries with vector search to enable reasoning over both structured and unstructured data in a single workflow.  
+- Designing graph schemas and query patterns that make complex domain knowledge easily explorable for LLM agents and downstream analytics.
 
 ---
 
----
+## 🧪 Data Extraction & Web Automation
 
-<div align="center">
-
-## 📚 Featured Repositories
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔗 LangChain Resources
-Complete guide from basics to advanced LLM applications with LangChain framework.
-
-**Tech:** `Python` `LangChain` `LLMs`
-
-</td>
-<td width="50%">
-
-### 🎓 AI Foundation
-Comprehensive AI/ML course materials covering neural networks, generative AI, and practical implementations.
-
-**Tech:** `Machine Learning` `Deep Learning` `AI`
-
-</td>
-</tr>
-</table>
+- Developing robust **web scraping and automation** pipelines with tools like Selenium and browser-based agents to collect technical documents and structured data from the web.  
+- Creating reusable components for PDF parsing, entity and relation extraction, and normalization of noisy raw data into clean, analysis-ready datasets.  
+- Prioritizing reliability with strategies for handling dynamic pages, rate limits, captchas, and error recovery in long-running crawlers.
 
 ---
 
-<div align="center">
+## 🗃️ Vector Databases & Semantic Search
 
-## 🚀 What I'm Working On
-
-🧠 **GraphRAG Systems** - Combining Neo4j & Milvus for advanced retrieval  
-🤖 **LLM Applications** - Building production-ready AI agents with LangChain  
-🕷️ **Web Automation** - Intelligent scraping & data extraction pipelines  
-📊 **Vector Databases** - Semantic search and embedding optimization
+- Working with **vector databases** (such as Milvus and similar systems) to power semantic search, similarity retrieval, and hybrid search (keyword + vector) applications.  
+- Tuning indexing strategies, distance metrics, and filtering logic to balance recall, precision, and performance at scale.  
+- Integrating vector stores into end-to-end applications, from data ingestion and embedding generation to query-time orchestration with LLMs.
 
 ---
 
-## 💻 Skills & Technologies
+## 🏗️ Production AI & Developer Workflow
 
-**AI & ML**  
-`LangChain` `Ollama` `HuggingFace` `RAG` `LLMs` `NLP`
-
-**Databases**  
-`Neo4j` `Milvus` `Vector DBs` `Graph Databases`
-
-**Languages & Tools**  
-`Python` `SQL` `Cypher` `Docker` `Selenium` `Jupyter`
-
-**Frameworks**  
-`FastAPI` `Pandas` `NumPy` `Scikit-learn`
-
----
-
-### 📊 GitHub Stats
-
-![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokiiicoded&show_icons=true&theme=dark)
-
----
-
-### 💬 Let's Collaborate
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email)
-
----
-
-*"Exploring the intersection of AI and real-world impact"*
-
-</div>
-
+- Prototyping and refining **AI-powered internal tools** for IT environments, including assistants for documentation, ticketing, and operational automation.  
+- Using Docker, API-driven architectures, and modular Python code to make AI services easy to deploy, maintain, and integrate with existing systems.  
+- Iterating in **Jupyter Notebooks** and **VS Code** with a strong emphasis on reproducibility, clean code structure, and collaborative development practices.
