@@ -48,3 +48,23 @@
 - Prototyping and refining **AI-powered internal tools** for IT environments, including assistants for documentation, ticketing, and operational automation.  
 - Using Docker, API-driven architectures, and modular Python code to make AI services easy to deploy, maintain, and integrate with existing systems.  
 - Iterating in **Jupyter Notebooks** and **VS Code** with a strong emphasis on reproducibility, clean code structure, and collaborative development practices.
+
+<div>
+
+## 📫 Let's Connect
+
+I'm always open to discussing AI projects, collaboration opportunities, or interesting technical challenges. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lokiiicoded)
+
+---
+
+<div align="center">
+
+### 💡 *"Building intelligent systems that bridge AI research and real-world impact"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=lokiiicoded&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
